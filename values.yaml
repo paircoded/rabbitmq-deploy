@@ -3,3 +3,7 @@ clusterOperator:
   watchAllNamespaces: false
   watchNamespaces:
     - paircoded
+msgTopologyOperator:
+  watchAllNamespaces: false
+  watchNamespaces:
+    - paircoded
