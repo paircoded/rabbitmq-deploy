@@ -1,1 +1,5 @@
 defaultStorageClass: "local-storage"
+clusterOperator:
+  watchAllNamespaces: false
+  watchNamespaces:
+    - paircoded
